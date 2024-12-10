@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace npDataCMP.Properties
+namespace npDataComp.Properties
 {
 
 

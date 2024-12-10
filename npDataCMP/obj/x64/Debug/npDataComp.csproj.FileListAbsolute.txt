@@ -1,0 +1,19 @@
+c:\users\huang\source\repos\npDataComp\npDataComp\bin\x64\Debug\npDataComp.exe.config
+c:\users\huang\source\repos\npDataComp\npDataComp\bin\x64\Debug\npDataComp.exe
+c:\users\huang\source\repos\npDataComp\npDataComp\bin\x64\Debug\npDataComp.pdb
+c:\users\huang\source\repos\npDataComp\npDataComp\obj\x64\Debug\npDataComp.Properties.Resources.resources
+c:\users\huang\source\repos\npDataComp\npDataComp\obj\x64\Debug\npDataComp.csproj.GenerateResource.cache
+c:\users\huang\source\repos\npDataComp\npDataComp\obj\x64\Debug\npDataComp.csproj.CoreCompileInputs.cache
+c:\users\huang\source\repos\npDataComp\npDataComp\obj\x64\Debug\npDataComp.exe
+c:\users\huang\source\repos\npDataComp\npDataComp\obj\x64\Debug\npDataComp.pdb
+c:\users\huang\source\repos\npDataComp\npDataComp\obj\x64\Debug\npDataComp.csprojAssemblyReference.cache
+C:\Users\huang\source\repos\npDataComp\npDataComp\obj\x64\Debug\npDataComp.FormDataCmp.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\npDataCMP\npDataCMP\bin\x64\Debug\npDataComp.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\npDataCMP\npDataCMP\bin\x64\Debug\npDataComp.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\npDataCMP\npDataCMP\bin\x64\Debug\npDataComp.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\npDataCMP\npDataCMP\obj\x64\Debug\npDataComp.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\npDataCMP\npDataCMP\obj\x64\Debug\npDataComp.FormDataCmp.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\npDataCMP\npDataCMP\obj\x64\Debug\npDataComp.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\npDataCMP\npDataCMP\obj\x64\Debug\npDataComp.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\npDataCMP\npDataCMP\obj\x64\Debug\npDataComp.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\npDataCMP\npDataCMP\obj\x64\Debug\npDataComp.pdb

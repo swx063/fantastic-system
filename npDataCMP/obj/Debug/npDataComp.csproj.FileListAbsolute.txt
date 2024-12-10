@@ -1,0 +1,10 @@
+c:\users\huang\source\repos\npDataComp\npDataComp\bin\Debug\npDataComp.exe.config
+c:\users\huang\source\repos\npDataComp\npDataComp\bin\Debug\npDataComp.exe
+c:\users\huang\source\repos\npDataComp\npDataComp\bin\Debug\npDataComp.pdb
+c:\users\huang\source\repos\npDataComp\npDataComp\obj\Debug\npDataComp.csprojAssemblyReference.cache
+c:\users\huang\source\repos\npDataComp\npDataComp\obj\Debug\npDataComp.Form1.resources
+c:\users\huang\source\repos\npDataComp\npDataComp\obj\Debug\npDataComp.Properties.Resources.resources
+c:\users\huang\source\repos\npDataComp\npDataComp\obj\Debug\npDataComp.csproj.GenerateResource.cache
+c:\users\huang\source\repos\npDataComp\npDataComp\obj\Debug\npDataComp.csproj.CoreCompileInputs.cache
+c:\users\huang\source\repos\npDataComp\npDataComp\obj\Debug\npDataComp.exe
+c:\users\huang\source\repos\npDataComp\npDataComp\obj\Debug\npDataComp.pdb
