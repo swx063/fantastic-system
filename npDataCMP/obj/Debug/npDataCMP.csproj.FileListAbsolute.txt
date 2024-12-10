@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2017\Projects\npDataCMP\npDataCMP\bin\Debug\npDataCMP.exe.config
+c:\users\admin\documents\visual studio 2017\Projects\npDataCMP\npDataCMP\bin\Debug\npDataCMP.exe
+c:\users\admin\documents\visual studio 2017\Projects\npDataCMP\npDataCMP\bin\Debug\npDataCMP.pdb
+c:\users\admin\documents\visual studio 2017\Projects\npDataCMP\npDataCMP\obj\Debug\npDataCMP.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\npDataCMP\npDataCMP\obj\Debug\npDataCMP.Form1.resources
+c:\users\admin\documents\visual studio 2017\Projects\npDataCMP\npDataCMP\obj\Debug\npDataCMP.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2017\Projects\npDataCMP\npDataCMP\obj\Debug\npDataCMP.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2017\Projects\npDataCMP\npDataCMP\obj\Debug\npDataCMP.exe
+c:\users\admin\documents\visual studio 2017\Projects\npDataCMP\npDataCMP\obj\Debug\npDataCMP.pdb
